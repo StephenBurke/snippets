@@ -1,0 +1,14 @@
+{
+	"pythonMainScript": {
+		"prefix": "main",
+		"body": [
+			"def main():",
+			"\t${1: #Make something happen}",
+			"",
+			"if __name__ == '__main__':",
+			"\tmain()",
+			""
+		],
+		"description": "prints python main boilerplate"
+	}
+}
